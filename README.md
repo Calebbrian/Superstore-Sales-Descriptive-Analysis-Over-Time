@@ -1,12 +1,12 @@
-# 📊 Superstore Sales Descriptive Analysis Over Time  
+#  Superstore Sales Descriptive Analysis Over Time  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project provides a descriptive analysis of Superstore sales data to uncover **monthly and yearly revenue trends, seasonality patterns, and profitability insights**.  
 The goal is to help stakeholders understand historical performance and identify business opportunities.  
 
 ---
 
-## ⚙️ Methodology  
+##  Methodology  
 1. **Data Cleaning & Preparation**  
    - Converted dates into usable formats  
    - Extracted Year and Month for time-based grouping  
@@ -24,7 +24,7 @@ The goal is to help stakeholders understand historical performance and identify 
 
 ---
 
-## 💡 Key Business Insights  
+##  Key Business Insights  
 
 ### 1. Sales & Profit Trends  
 - Sales grew steadily over time with strong peaks during **holiday seasons (Nov–Dec)**.  
@@ -55,7 +55,7 @@ The goal is to help stakeholders understand historical performance and identify 
 
 ---
 
-## 🚀 Strategic Recommendations  
+##  Strategic Recommendations  
 - Optimize discount strategies to protect profitability.  
 - Focus marketing efforts on **holiday seasons (Nov–Dec)**.  
 - Expand in **West & Corporate segments** while nurturing Home Office growth.  
@@ -63,14 +63,14 @@ The goal is to help stakeholders understand historical performance and identify 
 
 ---
 
-## 📈 Tools & Libraries  
+##  Tools & Libraries  
 - Python (Pandas, Matplotlib, Seaborn)  
 - Jupyter Notebook  
 - Excel for dataset storage  
 
 ---
 
-## 🏆 Conclusion  
+##  Conclusion  
 This descriptive analysis provides a clear picture of **Superstore’s sales and profit dynamics over time**.  
 The insights can guide better **pricing strategies, marketing campaigns, and regional expansion** to maximize business growth.  
 
